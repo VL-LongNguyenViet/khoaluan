@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/jsoup-1.10.3.jar"/>
+	<classpathentry kind="lib" path="libs/mysql-connector-java-8.0.7-dmr.jar"/>
+	<classpathentry kind="lib" path="libs/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="libs/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="libs/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="libs/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="libs/chilkat.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="D:/Java libraries/chilkat-9.5.0-jdk8-x64"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="libs/chilkat-9.5.0-jdk8-x64.zip">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="D:/Java libraries"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="libs/java-json.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
